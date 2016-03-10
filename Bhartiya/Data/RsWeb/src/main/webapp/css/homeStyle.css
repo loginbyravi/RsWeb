@@ -1,0 +1,47 @@
+body{ 
+	margin: 0;
+  	padding: 0;
+  	
+  	}
+  
+	#main_Div{
+		margin-left: auto;
+		margin-right:auto;
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		border-radius: 5px;	
+		background: rgb(100,200,200);
+		
+	}
+	
+	#head_Div{
+		margin-left: auto;
+		margin-right: auto;		
+		width: 100%;
+		height: 21%;
+		border-radius: 0px;
+		background: rgb(100,40,200)
+	}
+	#menu_Div{
+		margin-left: auto;
+		margin-right: auto;		
+		width:70%;
+		height: 10%;
+		border-radius: 0px;
+	}
+	
+	#body_Div{
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+		height: 62%;
+		border-radius: 0px;
+	}
+	#foot_Div{
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		height: 7%;
+		border-radius: 0px;
+	}
